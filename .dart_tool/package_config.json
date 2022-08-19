@@ -2,6 +2,18 @@
   "configVersion": 2,
   "packages": [
     {
+      "name": "after_layout",
+      "rootUri": "file:///home/vukolro/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/after_layout-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "animated_text_kit",
+      "rootUri": "file:///home/vukolro/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/animated_text_kit-4.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
       "name": "async",
       "rootUri": "file:///home/vukolro/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.8.2",
       "packageUri": "lib/",
@@ -62,6 +74,12 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "flutter_sequence_animation",
+      "rootUri": "file:///home/vukolro/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sequence_animation-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///home/vukolro/snap/flutter/common/flutter/packages/flutter_test",
       "packageUri": "lib/",
@@ -98,6 +116,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "rubber",
+      "rootUri": "file:///home/vukolro/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/rubber-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "sky_engine",
       "rootUri": "file:///home/vukolro/snap/flutter/common/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
@@ -108,6 +132,12 @@
       "rootUri": "file:///home/vukolro/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.8.2",
       "packageUri": "lib/",
       "languageVersion": "2.14"
+    },
+    {
+      "name": "sprung",
+      "rootUri": "file:///home/vukolro/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/sprung-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.13"
     },
     {
       "name": "stack_trace",
@@ -152,7 +182,7 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2022-08-19T07:48:15.390515Z",
+  "generated": "2022-08-19T14:40:35.895019Z",
   "generator": "pub",
   "generatorVersion": "2.17.6"
 }

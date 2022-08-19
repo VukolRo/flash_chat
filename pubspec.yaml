@@ -10,8 +10,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
   cupertino_icons: ^1.0.2
+  animated_text_kit: ^4.2.2
+  sprung: ^3.0.1
+  rubber: ^1.0.1
+  flutter_sequence_animation: ^3.0.1
 
 dev_dependencies:
   flutter_test:
