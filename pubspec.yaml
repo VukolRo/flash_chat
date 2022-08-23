@@ -15,6 +15,10 @@ dependencies:
   sprung: ^3.0.1
   rubber: ^1.0.1
   flutter_sequence_animation: ^3.0.1
+  firebase_core: ^1.21.0
+  firebase_auth: ^3.6.4
+  cloud_firestore: ^3.4.5
+  modal_progress_hud_nsn: ^0.3.0
 
 dev_dependencies:
   flutter_test:
